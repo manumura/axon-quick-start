@@ -19,6 +19,7 @@ import org.slf4j.LoggerFactory;
 import java.util.ArrayList;
 import java.util.List;
 
+// https://github.com/gushakov/axon-simple
 @Aggregate
 public class ChatRoom {
 
